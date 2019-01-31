@@ -14,9 +14,9 @@
     <repository>https://github.com/dymaxionlabs/massive-change-detection</repository>
     <tags>dymaxion,urban planning,change detection</tags>
   </pyqgis_plugin>
-  <pyqgis_plugin name="Zonal Statistics for Multiband Rasters" version="0.1">
+  <pyqgis_plugin name="Zonal Statistics for Multiband Rasters" version="0.1.1">
     <description>Extends Zonal Statistics official plugin with multiband raster support</description>
-    <version>0.1</version>
+    <version>0.1.1</version>
     <homepage>https://github.com/dymaxionlabs/qgis-zonal-statistics-multiband</homepage>
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <file_name>ZonalStatisticsMultiband.zip</file_name>
