@@ -1,17 +1,31 @@
 <?xml version="1.0"?>
 <plugins>
-	<pyqgis_plugin name="Massive Change Detection" version="0.1.0">
-		<description>Change detection algorithms for urban planning</description>
+  <pyqgis_plugin name="Massive Change Detection" version="0.1.0">
+    <description>Change detection algorithms for urban planning</description>
     <version>0.1.0</version>
-		<homepage>https://github.com/dymaxionlabs/massive-change-detection</homepage>
-		<qgis_minimum_version>2.2</qgis_minimum_version>
-		<file_name>massive-change-detection.zip</file_name>
-		<download_url>https://dymaxionlabs.github.io/qgis-repository/massive-change-detection-0.1.0.zip</download_url>
-		<author_name>Damián Silvani</author_name>
+    <homepage>https://github.com/dymaxionlabs/massive-change-detection</homepage>
+    <qgis_minimum_version>2.2</qgis_minimum_version>
+    <file_name>massive-change-detection.zip</file_name>
+    <download_url>https://dymaxionlabs.github.io/qgis-repository/massive-change-detection-0.1.0.zip</download_url>
+    <author_name>Damián Silvani</author_name>
     <experimental>True</experimental>
     <deprecated>False</deprecated>
     <tracker>https://github.com/dymaxionlabs/massive-change-detection/issues</tracker>
     <repository>https://github.com/dymaxionlabs/massive-change-detection</repository>
     <tags>dymaxion,urban planning,change detection</tags>
-	</pyqgis_plugin>
+  </pyqgis_plugin>
+  <pyqgis_plugin name="Zonal Statistics for Multiband Rasters" version="0.1">
+    <description>Extends Zonal Statistics official plugin with multiband raster support</description>
+    <version>0.1</version>
+    <homepage>https://github.com/dymaxionlabs/qgis-zonal-statistics-multiband</homepage>
+    <qgis_minimum_version>3.0</qgis_minimum_version>
+    <file_name>ZonalStatisticsMultiband.zip</file_name>
+    <download_url>https://dymaxionlabs.github.io/qgis-repository/ZonalStatisticsMultiband.zip</download_url>
+    <author_name>Damián Silvani</author_name>
+    <experimental>True</experimental>
+    <deprecated>False</deprecated>
+    <tracker>https://github.com/dymaxionlabs/qgis-zonal-statistics-multiband/issues</tracker>
+    <repository>https://github.com/dymaxionlabs/qgis-zonal-statistics-multiband</repository>
+    <tags>dymaxion,zonal statistics,multiband,raster</tags>
+  </pyqgis_plugin>
 </plugins>
