@@ -18,4 +18,5 @@ into QGIS.
 
 ## Available plugins
 
+* [Zonal Statistics for Multiband Rasters](https://github.com/dymaxionlabs/qgis-zonal-statistics-multiband)
 * [Massive Change Detection](https://github.com/dymaxionlabs/massive-change-detection)
